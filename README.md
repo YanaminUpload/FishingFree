@@ -1,5 +1,3 @@
----
-
 ## 🎣 Fitur (Versi Gratis)
 
 ✨ **YanaminHub – Auto Fishing & Auto Sell (Trial Version)**
@@ -16,5 +14,3 @@ Script ini dirancang untuk memudahkan kamu farming **Cail** secara otomatis di g
 * ⏱️ **Trial Time**: Versi gratis hanya aktif selama **30 menit** per sesi.
 
 💡 Untuk akses penuh tanpa batas waktu, silakan hubungi saya via DM!
-
----
